@@ -7,11 +7,13 @@ Complement names of hosts file in Windows PowerShell
 Installation
 -------------
 
-Please download `HostsCompletion.ps1` and add your Profile.ps1
+Please download `HostsCompletion.ps1` and add 
 
 ```PowerShell
 . path/to/HostsCompletion.ps1
 ```
+
+to your Profile.ps1.
 
 Usage
 -------
