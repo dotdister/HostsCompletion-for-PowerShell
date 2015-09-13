@@ -13,7 +13,7 @@ Please download `HostsCompletion.ps1` and add
 . path/to/HostsCompletion.ps1
 ```
 
-to your Profile.ps1.
+to your `Profile.ps1`.
 
 Usage
 -------
